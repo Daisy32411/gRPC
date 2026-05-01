@@ -1,4 +1,4 @@
-**gRPC Auth Service - SSO Server in Go**
+# gRPC Auth Service - SSO Server in Go
 
 A production-ready gRPC authentication service (SSO) with full development cycle, automatic deployment, and JWT-based authorization.
 
